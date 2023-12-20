@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <firstName>Roman</firstName>
+    <lastName>Kolesov</lastName>
+    <gender>male</gender>
+    <age>23</age>
+    <address>
+        <streetAddress>Osh 5</streetAddress>
+        <city>Tashkent</city>
+        <region>Uzbekistan</region>
+        <postalCode>100070</postalCode>
+    </address>
+    <phoneNumbers>
+        <phone>
+            <type>mobile</type>
+            <number>998900051094</number>
+        </phone>
+        <phone>
+            <type>home</type>
+            <number>998712914210</number>
+        </phone>
+    </phoneNumbers>
+    <dateOfBirth>26.11.2000</dateOfBirth>
+    <maritalStatus>not married</maritalStatus>
+    <familyMembers>
+        <familyMember relation="brother">Nikolay</familyMember>
+        <familyMember relation="mother">Tatiana</familyMember>
+        <familyMember relation="grandmother">Lyudmila</familyMember>
+        <familyMember relation="grandfather">Roman</familyMember>
+    </familyMembers>
+    <pets>
+        <cats>5</cats>
+        <dog>1</dog>
+    </pets>
+    <favoriteAnimal>cat</favoriteAnimal>
+</person>
